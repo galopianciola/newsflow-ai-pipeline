@@ -1,0 +1,13 @@
+services: {}
+
+# This file is intentionally a placeholder during the documentation and
+# architecture phase.
+#
+# The next implementation milestone is to replace this with a working
+# local stack for:
+# - postgres
+# - airflow
+# - api
+#
+# See BACKLOG.md -> "v1 — Core pipeline" -> "Day 1 — Infra and
+# extract" for the planned build order.
